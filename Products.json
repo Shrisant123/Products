@@ -1,5 +1,6 @@
-[
-	{
+{
+	"product1":[
+		{
 		"id":1,
 		"name":"Computers",
 		"image":"https://th.bing.com/th/id/OIP.8J0O1TVzRdmUvImcUkf0dQHaHa?rs=1&pid=ImgDetMain"
@@ -17,3 +18,4 @@
 		"image":"https://th.bing.com/th/id/R.cd7e81b7012a01921b0bf548f82a4389?rik=fcf6am0Hj5LEDA&pid=ImgRaw&r=0"
 	}
 ]
+}
